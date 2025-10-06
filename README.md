@@ -1,6 +1,8 @@
 # Disney BRDF Implementation in Unity
 
-A custom shader implementation of Disney's Principled BRDF model in Unity, featuring an interactive material showcase with real-time parameter visualization.
+A custom shader implementation of Disney's Principled BRDF model in Unity with an interactive material showcase and real-time parameter visualization.
+
+**[Click Here for the Live Demo](https://mustafa-bektas.itch.io/disney-brdf-demo)**
 
 ![Demo](demo/demo.gif)
 
